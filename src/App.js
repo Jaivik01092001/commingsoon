@@ -20,10 +20,11 @@ function App() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, ease: "easeOut" }}
             viewport={{ once: true }}
-            className="herodescription "
+            className="herodescription w-2/4"
           >
-            High-end digital experiences. Created at the heart of <br />{" "}
-            Manhattan, we are a human-sized team.
+            Our nationwide network of real estate photographers can capture
+            stunning photos, deliver instantly on site, at a price more
+            affordable than traditional photography.
           </div>
           <h2 class="text-4xl lg:text-5xl text-white font-bold mb-8 commingsoon capitalize">
             Our apps are coming soon...
